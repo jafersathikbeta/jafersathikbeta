@@ -48,11 +48,11 @@
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://jafersathikbeta.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/jafersathikbeta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jafersathikbeta.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:jafersathikbeta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
