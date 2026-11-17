@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://jafersathikbeta.github.io/Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=UNDERSTAND+%E2%9E%94+DESIGN+%E2%9E%94+BUILD+%E2%9E%94+TEST+%E2%9E%94+DEPLOY" alt="Slogan" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=UNDERSTAND+%E2%9E%94+DESIGN+%E2%9E%94+BUILD+%E2%9E%94+TEST+%E2%9E%94+DEPLOY" alt="Slogan" />
   </a>
 </div>
 
