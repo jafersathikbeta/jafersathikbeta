@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <a href="https://jafersathikbeta.github.io/Portfolio/">
+  <a href="https://jafersathikbeta.github.io/portfolio/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=UNDERSTAND+%E2%9E%94+DESIGN+%E2%9E%94+BUILD+%E2%9E%94+TEST+%E2%9E%94+DEPLOY" alt="Slogan" />
   </a>
 </div>
@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/jafersathikbeta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jafersathikbeta.github.io/Portfolio/">
+  <a href="https://jafersathikbeta.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:jafersathikbeta@gmail.com">
