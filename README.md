@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
-</div>
   <br>
   <!-- AI & Security -->
   <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square" />
@@ -50,6 +49,7 @@
   <img src="https://img.shields.io/badge/PII%20Redaction-D14836?style=flat-square" />
   <img src="https://img.shields.io/badge/MITRE%20ATLAS-B31B1B?style=flat-square" />
   <img src="https://img.shields.io/badge/NIST%20CSF-17365D?style=flat-square" />
+</div>
 
 <br />
 
