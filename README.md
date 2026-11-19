@@ -13,7 +13,7 @@
 <h1 align="center">Hi, I'm Jafer Sathik B </h1>
 
 <p align="center">
-  Full-Stack & AI Developer specializing in defensive security, AI pipelines, and production software.
+  Full-Stack Developer · AI Engineer · Cybersecurity Enthusiast — building production software, AI pipelines, and defensive security tooling.
   <br><br>
   I build AI systems that can be audited — like <b>AegisRAG</b> (offline multimodal RAG with PII redaction) and <b>Sentinel</b> (API gateway mapping threats to MITRE ATLAS). Alongside that, I ship production web apps using Laravel, Next.js, and FastAPI.
 </p>
